@@ -1,0 +1,8 @@
+[submodule "lib/g3log"]
+	path = lib/g3log
+	url = https://github.com/optimeas/g3log.git
+	branch = master
+[submodule "lib/cmake-git-version-tracking"]
+	path = lib/cmake-git-version-tracking
+	url = https://github.com/optimeas/cmake-git-version-tracking.git
+	branch = master
